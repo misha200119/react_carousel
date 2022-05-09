@@ -1,0 +1,2 @@
+*{box-sizing:content-box}.app{display:flex;flex-direction:row;grid-gap:50px;gap:50px}.carousel{overflow:hidden}.carousel__list{display:flex;flex-direction:row;list-style:none}.carousel__list,.carousel__list-item{margin:0;padding:0}.carousel__buttons{display:grid;grid-template-columns:50% 50%}.inputForm{display:grid;grid-template-columns:-webkit-max-content 75px;grid-template-columns:max-content 75px}.inputForm__label{display:block}.inputForm__input{display:inline-block}
+/*# sourceMappingURL=main.f7ec3caf.chunk.css.map */
